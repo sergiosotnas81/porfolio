@@ -12,7 +12,9 @@ nav a{
     text-decoration:none;
     
 }
-
+#competencias{
+    text-align: center;
+}
 nav ul{
     list-style:none; /*  quitar los puntos de la lista  */
     border:4px double Blue;
@@ -30,19 +32,14 @@ nav ul{
     /*  el contenido de espacio  */
     padding:1em;
 }
-#competencias{
+#estudios{
     text-align: center;
 }
-#competencias td{
+#estudios td{
     /*  el contenido de espacio  */
     padding:1em;
 }
-form{
-  background-color:silver;
-  text-align: center;
-  width:20%;
-  margin:0 auto;
-}
+
 label, input{
   display:block;
   width:100%;
@@ -54,4 +51,7 @@ header
   background-repeat:no-repeat;
 /*  para expandir toda la pantalla  */
   background-size:cover;
+}
+#redessociales{
+    text-align: center;
 }
