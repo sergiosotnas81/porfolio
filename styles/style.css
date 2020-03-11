@@ -1,57 +1,28 @@
 figure, h1, h2{
     text-align: center;
 }
-nav li{
-    display:inline;
-    padding-left: 3em;
-    padding-left: 3em;
-    
-}
-
-nav a{
-    text-decoration:none;
-    
-}
 #competencias{
     text-align: center;
 }
-nav ul{
-    list-style:none; /*  quitar los puntos de la lista  */
-    border:4px double Blue;
-    text-align: center;
-    background-color: darkgray;
-    
-}
+
 #inicio {
     text-align: center;
 }
 #curriculum {
     text-align: center;
 }
-#curriculum td{
-    /*  el contenido de espacio  */
-    padding:1em;
-}
 #estudios{
     text-align: center;
 }
-#estudios td{
-    /*  el contenido de espacio  */
-    padding:1em;
-}
-
-label, input{
-  display:block;
-  width:100%;
-}
-header
-{
-  background-image:url("https://previews.123rf.com/images/gnatiuklv/gnatiuklv1607/gnatiuklv160700036/61102973-cuaderno-de-papel-de-fondo-la-ense%C3%B1anza-del-dise%C3%B1o-en-blanco-de-papel-de-cuaderno-hoja-libreta-vac%C3%ADa-la-l%C3%ADnea-.jpg");
-/*   para no repetir   */
-  background-repeat:no-repeat;
-/*  para expandir toda la pantalla  */
-  background-size:cover;
-}
 #redessociales{
+    text-align: center;
+}
+#subir{
+    text-align: right;
+}
+#mapa{
+    text-align: center;
+}
+#contacto{
     text-align: center;
 }
